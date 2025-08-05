@@ -513,6 +513,11 @@ section.main-wrap p {
 }
 
 @media screen and (max-width: 600px) {
+    .work-img {
+        width: 300px;
+        border-radius: 10px;
+    }
+
     section.main-wrap {
         align-items: center;
     }
