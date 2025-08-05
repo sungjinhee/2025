@@ -514,7 +514,7 @@ section.main-wrap p {
 
 @media screen and (max-width: 600px) {
     .work-img {
-        width: 300px;
+        width: 100%;
         border-radius: 10px;
     }
 
